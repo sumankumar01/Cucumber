@@ -1,0 +1,74 @@
+[
+  {
+    "source": "^User login with username and password$",
+    "steps": [
+      {
+        "name": "User login with username and password",
+        "aggregatedDurations": {
+          "average": 0.000017493,
+          "median": 0.000017493
+        },
+        "durations": [
+          {
+            "duration": 0.000017493,
+            "location": "login.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Home page is populated$",
+    "steps": [
+      {
+        "name": "Home page is populated",
+        "aggregatedDurations": {
+          "average": 0.000015786,
+          "median": 0.000015786
+        },
+        "durations": [
+          {
+            "duration": 0.000015786,
+            "location": "login.feature:6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^User is on Netbanking landing page$",
+    "steps": [
+      {
+        "name": "User is on Netbanking landing page",
+        "aggregatedDurations": {
+          "average": 0.10398891,
+          "median": 0.10398891
+        },
+        "durations": [
+          {
+            "duration": 0.10398891,
+            "location": "login.feature:4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Cards should display$",
+    "steps": [
+      {
+        "name": "Cards should display",
+        "aggregatedDurations": {
+          "average": 0.000018346,
+          "median": 0.000018346
+        },
+        "durations": [
+          {
+            "duration": 0.000018346,
+            "location": "login.feature:7"
+          }
+        ]
+      }
+    ]
+  }
+]

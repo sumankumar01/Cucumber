@@ -1,0 +1,7 @@
+Feature: Application Login
+
+  Scenario: Home page default login            [90m# login.feature:3[0m
+    [32mGiven [0m[32mUser is on Netbanking landing page[0m   [90m# StepDefinition.user_is_on_netbanking_landing_page()[0m
+    [32mWhen [0m[32mUser login with username and password[0m [90m# StepDefinition.user_login_with_username_and_password()[0m
+    [32mThen [0m[32mHome page is populated[0m                [90m# StepDefinition.home_page_is_populated()[0m
+    [32mAnd [0m[32mCards should display[0m                   [90m# StepDefinition.cards_should_display()[0m

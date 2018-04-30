@@ -1,0 +1,70 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Home page default login",
+        "description": "",
+        "id": "application-login;home-page-default-login",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 103988910,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is on Netbanking landing page",
+            "match": {
+              "location": "StepDefinition.user_is_on_netbanking_landing_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 17493,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User login with username and password",
+            "match": {
+              "location": "StepDefinition.user_login_with_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 15786,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Home page is populated",
+            "match": {
+              "location": "StepDefinition.home_page_is_populated()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 18346,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Cards should display",
+            "match": {
+              "location": "StepDefinition.cards_should_display()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Application Login",
+    "description": "",
+    "id": "application-login",
+    "keyword": "Feature",
+    "uri": "login.feature"
+  }
+]
