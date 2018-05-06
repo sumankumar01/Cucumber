@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0.104041">
-<testcase classname="Application Login" name="Home page default login" time="0.104041">
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0.303329">
+<testcase classname="Application Login" name="" time="0.303329">
 <system-out><![CDATA[Given User is on Netbanking landing page....................................passed
 When User login with username and password..................................passed
 Then Home page is populated.................................................passed

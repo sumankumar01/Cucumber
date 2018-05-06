@@ -5,12 +5,12 @@
       {
         "name": "User login with username and password",
         "aggregatedDurations": {
-          "average": 0.000017493,
-          "median": 0.000017493
+          "average": 0.000034642,
+          "median": 0.000034642
         },
         "durations": [
           {
-            "duration": 0.000017493,
+            "duration": 0.000034642,
             "location": "login.feature:5"
           }
         ]
@@ -23,12 +23,12 @@
       {
         "name": "Home page is populated",
         "aggregatedDurations": {
-          "average": 0.000015786,
-          "median": 0.000015786
+          "average": 0.000037855,
+          "median": 0.000037855
         },
         "durations": [
           {
-            "duration": 0.000015786,
+            "duration": 0.000037855,
             "location": "login.feature:6"
           }
         ]
@@ -41,12 +41,12 @@
       {
         "name": "User is on Netbanking landing page",
         "aggregatedDurations": {
-          "average": 0.10398891,
-          "median": 0.10398891
+          "average": 0.303211687,
+          "median": 0.303211687
         },
         "durations": [
           {
-            "duration": 0.10398891,
+            "duration": 0.303211687,
             "location": "login.feature:4"
           }
         ]
@@ -59,12 +59,12 @@
       {
         "name": "Cards should display",
         "aggregatedDurations": {
-          "average": 0.000018346,
-          "median": 0.000018346
+          "average": 0.000044839,
+          "median": 0.000044839
         },
         "durations": [
           {
-            "duration": 0.000018346,
+            "duration": 0.000044839,
             "location": "login.feature:7"
           }
         ]

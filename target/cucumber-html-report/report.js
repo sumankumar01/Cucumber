@@ -8,9 +8,9 @@ formatter.feature({
 });
 formatter.scenario({
   "line": 3,
-  "name": "Home page default login",
+  "name": "",
   "description": "",
-  "id": "application-login;home-page-default-login",
+  "id": "application-login;",
   "type": "scenario",
   "keyword": "Scenario"
 });
@@ -38,28 +38,28 @@ formatter.match({
   "location": "StepDefinition.user_is_on_netbanking_landing_page()"
 });
 formatter.result({
-  "duration": 103988910,
+  "duration": 303211687,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_login_with_username_and_password()"
 });
 formatter.result({
-  "duration": 17493,
+  "duration": 34642,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.home_page_is_populated()"
 });
 formatter.result({
-  "duration": 15786,
+  "duration": 37855,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.cards_should_display()"
 });
 formatter.result({
-  "duration": 18346,
+  "duration": 44839,
   "status": "passed"
 });
 });
